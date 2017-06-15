@@ -1,1 +1,1 @@
-Data structure in Python
+Data structures in Python
